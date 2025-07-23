@@ -15,5 +15,5 @@ if it worked then good job, you can now live when you could have friends on robl
 if it DID NOT WORK, then uhhhh idk, guess thats too bad, sorry if it didnt work i guess but idk what to do about it so yeah, anyways yeah this is my first extension i made,
 so uh yeah thats all thank u for readin
 
-also if theres any bugs uhhh please let me know, the only bug i found is that it sometimes doesnt work when you turn the extension off and then on.
+also if theres any bugs uhhh please let me know, the only bug i found is that it sometimes doesnt work when you turn the extension off and then on. the only way to fix that is to remove the extension and load unpacked again.
 im too stupid to figure it out since this is my first time making a chrome extension also i used ai for this cuz im also too stupid
