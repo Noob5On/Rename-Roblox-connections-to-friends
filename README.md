@@ -17,3 +17,4 @@ so uh yeah thats all thank u for readin
 
 also if theres any bugs uhhh please let me know, the only bug i found is that it sometimes doesnt work when you turn the extension off and then on. the only way to fix that is to remove the extension and load unpacked again.
 im too stupid to figure it out since this is my first time making a chrome extension also i used ai for this cuz im also too stupid
+ALSO KEEP IN MIND IT ONLY WORKS ON THE ROBLOX WEBSITE NOT ON ROBLOX EXPERIENCES!
