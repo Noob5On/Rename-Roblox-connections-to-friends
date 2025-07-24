@@ -1,6 +1,6 @@
 # how 2 setup the thing that renames connections to friends after extracting it
 
-Go to MANAGE EXTENSIONS (click the puzzle icon on the top right near the corner)
+Go to MANAGE EXTENSIONS (click the puzzle icon on the top right near the corner and way below it you see manage extensions so click on it)
 
 click on DEVELOPER MODE
 
